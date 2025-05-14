@@ -6,6 +6,10 @@ Projeto de API RESTful desenvolvido como parte da disciplina de Banco de Dados N
 - [Configuração de Ambiente](#-configuração-do-ambiente)
     - [Dependências](#dependências)
     - [Inicialização do Servidor](#inicialização-do-servidor)
+- [Operações CRUD](#operações-crud)
+    - [Ferramentas](#ferramentas)
+    - [Usuarios](#usuários)
+    - [Reservas](#reservas)
 ---
 
 ## Descrição do Projeto
