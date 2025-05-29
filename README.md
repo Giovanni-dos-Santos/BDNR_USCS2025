@@ -1,6 +1,10 @@
 # BDNR_USCS2025
 Projeto de API RESTful desenvolvido como parte da disciplina de Banco de Dados Não Relacionais
 
+## Integrantes
+
+- Giovanni dos Santos
+
 ## Tabela de Conteúdo
 - [Descrição do Projeto](#-descrição-do-projeto)
 - [Configuração de Ambiente](#-configuração-do-ambiente)
